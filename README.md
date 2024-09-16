@@ -2,7 +2,7 @@
 Bertrand Russell celým jménem **Bertrand Arthur William Russell** (18.5.1872 - 2.2.1970) byl britský matematik, filosof, logik, sociální kritik a spisovatel. Je nositel [Nobelovy ceny za literaturu](https://cs.wikipedia.org/wiki/Nobelova_cena_za_literaturu) za rok 1950. V matematice je znám svým paradoxem v naivní teorii množin.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Honourable_Bertrand_Russell.jpg" alt="Bertrand Russell" width="300"/>
-obrázek z [wikipedia.org](wikipedia.org)
+obrázek z [wikipedia.org] (wikipedia.org)
 
 ## Život
 Bertrand Arthur William Russell (1872–1970) pocházel z aristokratické rodiny a po smrti svého bratra se stal 3. hrabětem Russellem. Vyrůstal u svého dědečka, studoval matematiku a etiku na Cambridgeské univerzitě a později pracoval jako asistent. Oženil se s Alys Persall Smithovou a studoval ekonomii v Berlíně. Jeho filozofické názory se vyvíjely od platónismu k novopozitivismu a logickému atomismu. 
